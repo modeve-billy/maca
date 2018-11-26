@@ -10,8 +10,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 13,
-    "versionPublish": "4.8.7"
+    "uniqCompNum": 14,
+    "versionPublish": "4.8.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -45,12 +46,12 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-0"
+          "_anchor": "image1-d"
         },
         {
           "_params": {
